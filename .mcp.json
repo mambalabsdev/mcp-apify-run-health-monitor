@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-apify-run-health-monitor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-apify-run-health-monitor"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

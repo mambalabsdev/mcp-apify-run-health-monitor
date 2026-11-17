@@ -1,0 +1,31 @@
+{
+  "name": "mcp-apify-run-health-monitor",
+  "displayName": "Apify Run Health Monitor",
+  "version": "1.0.0",
+  "description": "MCP server for Apify Run Health Monitor. Check your own Apify actors for failed, slow, and empty runs on your own token. Runs on Apify.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-apify-run-health-monitor",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "apify",
+    "monitoring",
+    "failed runs",
+    "alerts",
+    "scraper health"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "apify",
+    "monitoring",
+    "failed runs",
+    "alerts",
+    "scraper health"
+  ],
+  "mcpServers": ".mcp.json"
+}
