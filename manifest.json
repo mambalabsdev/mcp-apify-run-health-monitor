@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-apify-run-health-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Apify Run Health Monitor. Check your own Apify actors for failed, slow, and empty runs on your own token. Runs on Apify.",
   "author": {
     "name": "Mamba Labs"
